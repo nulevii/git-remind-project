@@ -1,4 +1,4 @@
-// Changes for rebase
+// This will create conflict
 
 // Some changes nead to be staged
 
