@@ -1,4 +1,4 @@
-// Hello world!
+// This will create conflict
 
 // Some changes nead to be staged
 
